@@ -1,4 +1,4 @@
-# Project-on-Uncle-Tony-s-Pizzeria-Data-Analysis-using-MS-Excel.
+# Project-on-Data-Analysis-using-MS-Excel.
 Project Overview🎯 A comprehensive analysis of 36,000+ pizza orders to derive actionable business insights and optimize operations! 🚀
 
 Key Analysis & Findings 📊
